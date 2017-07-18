@@ -1,0 +1,16 @@
+---
+Test
+---
+!define TEST_SYSTEM {slim} 
+!path /Users/Tennet/eclipse-workspace/Calculator/bin/
+
+
+|import    |
+|Caclulator|
+
+|Caclulator             |
+|firstnum|secondnum|sum?|
+|2       |1        |3   |
+|4       |3        |7   |
+|-1      |2        |1   |
+|-1      |-3       |-4  |
